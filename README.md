@@ -51,6 +51,3 @@ If the `-m` option is used, regular Monopoly rules apply:
 After simulating multiple games, the script provides an analysis of each player's performance, including total cash and the number of wins.
 
 Feel free to customize the script and adjust parameters according to your preferences.
-```
-
-Feel free to customize or add more details based on your preferences and requirements!
